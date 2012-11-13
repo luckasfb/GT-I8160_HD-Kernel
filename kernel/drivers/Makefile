@@ -120,6 +120,5 @@ obj-$(CONFIG_TEE_SUPPORT)	+= tee/
 obj-$(CONFIG_SAMSUNG_MODULES)   += samsung/
 obj-$(CONFIG_SAMSUNG_PHONE_SVNET)	+= phone_svn/
 obj-$(CONFIG_MACH_SAMSUNG_U8500)	+= startup_reason/
-obj-$(CONFIG_NFC)		+= nfc/
 
 
